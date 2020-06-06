@@ -4,6 +4,7 @@ if you have any excel file and want to make mqsql database from it then you can 
 requirements :
   python3 installed on your pc
   then a database server (I have used xammp )
+  openpyxl python module (pip install openpyxl)
   mysql-connector python module  (pip install mysql-connector)
   
  save excel file in same place where python program exist
