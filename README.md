@@ -1,4 +1,4 @@
-# Exceltomqsql
+# Exceltomysql
 Simple and short python program to save excel data into mysql database.
 if you have any excel file and want to make mqsql database from it then you can contine.
 requirements :
